@@ -1,0 +1,21 @@
+[
+  {
+    "id": "prueba_01",
+    "categoria": "individual",
+    "modelo": "ministral-3:3b-instruct-2512-q4_K_M",
+    "prompt": "Explica en tres frases que es la inteligencia artificial.",
+    "salida": "La inteligencia artificial (IA) es un campo de la tecnología que busca desarrollar sistemas capaces de **imitar el razonamiento humano**, aprender de datos y tomar decisiones basadas en patrones, sin ser conscientes como los seres vivos.\n\nConsiste en la creación de algoritmos y modelos matemáticos que procesan información a partir de grandes volúmenes de datos, permitiendo aplicaciones como la traducción automática, el diagnóstico médico o la asistencia virtual.\n\nSu evolución combina ciencia de datos, programación y procesamiento de información para mejorar la eficiencia en áreas como la automatización, la investigación científica o incluso la interacción con humanos.",
+    "temperatura": 0.2,
+    "max_tokens": 150,
+    "contexto": 4096,
+    "semilla": 42,
+    "tokens_generados": 127,
+    "ttft_s": 29.798677200000384,
+    "tiempo_total_s": 51.52253430000019,
+    "tokens_por_segundo": 5.87284975086169,
+    "motivo_fin": "stop",
+    "fecha": "2026-10-26T15:04:25.677802-06:00",
+    "calificacion": "",
+    "justificacion": ""
+  }
+]
