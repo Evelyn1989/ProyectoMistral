@@ -1,0 +1,40 @@
+[
+  {
+    "id": "texto_01",
+    "categoria": "Generación de texto",
+    "modelo": "ministral-3:3b-instruct-2512-q4_K_M",
+    "prompt": "Redacta un correo formal de máximo 100 palabras dirigido a una profesora. Incluye estas tres ideas: solicitar una reunión para revisar un proyecto de inteligencia artificial, proponer el miércoles a las 3 p. m. y agradecer su apoyo. No inventes nombres ni otros datos.",
+    "salida": "**Asunto:** Solicitud de reunión para revisar proyecto de inteligencia artificial\n\nEstimada Profesora [Apellido]:\n\nEspero que esté bien. Me pongo en contacto para solicitar una breve reunión el próximo **miércoles a las 3 p.m.** para revisar detalles de nuestro proyecto sobre inteligencia artificial. Agradezco profundamente su apoyo y guía durante este trabajo, y valoro su tiempo.\n\nQuedo atenta a cualquier disponibilidad que tenga. Por favor, indíqueme una fecha alternativa si el horario inicial no es conveniente.\n\nUn cordial saludo,\n[Tu nombre]",
+    "temperatura": 0.9,
+    "max_tokens": 256,
+    "contexto": 4096,
+    "semilla": 42,
+    "tokens_generados": 128,
+    "ttft_s": 5.011657999995805,
+    "tiempo_total_s": 28.111817899996822,
+    "tokens_por_segundo": 5.553439511915143,
+    "motivo_fin": "stop",
+    "fecha": "2026-10-27T10:45:49.346713-06:00",
+    "calificacion": "",
+    "justificacion": ""
+  },
+  {
+    "id": "texto_02",
+    "categoria": "Generación de texto",
+    "modelo": "ministral-3:3b-instruct-2512-q4_K_M",
+    "prompt": "Redacta un aviso de mantenimiento de máximo 80 palabras para las personas usuarias de un laboratorio. Incluye estos datos: viernes de 6 p. m. a 8 p. m., interrupción del acceso a los servidores y recomendación de guardar el trabajo antes del inicio. No inventes fechas ni contactos.",
+    "salida": "**AVISO DE MANTENIMIENTO**\n\nAtendiendo al plan programado, **se realizará mantenimiento preventivo en los servidores** el **viernes de 6 p.m. a 8 p.m.**.\n\n**Interrupción del acceso** a las áreas tecnológicas. Por favor, **guarde su trabajo antes del inicio** del horario y regrese en horario laboral habitual.\n\nGracias por su comprensión.",
+    "temperatura": 0.9,
+    "max_tokens": 256,
+    "contexto": 4096,
+    "semilla": 42,
+    "tokens_generados": 89,
+    "ttft_s": 4.887959599996975,
+    "tiempo_total_s": 20.085100099997362,
+    "tokens_por_segundo": 5.871984406120693,
+    "motivo_fin": "stop",
+    "fecha": "2026-10-27T10:46:09.433936-06:00",
+    "calificacion": "",
+    "justificacion": ""
+  }
+]

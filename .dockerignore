@@ -1,0 +1,10 @@
+.venv/
+.git/
+__pycache__/
+*.pyc
+results/
+docs/
+.env
+.env.*
+models/
+*.gguf

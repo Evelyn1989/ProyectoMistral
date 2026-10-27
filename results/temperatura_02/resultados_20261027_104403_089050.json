@@ -1,0 +1,40 @@
+[
+  {
+    "id": "texto_01",
+    "categoria": "Generación de texto",
+    "modelo": "ministral-3:3b-instruct-2512-q4_K_M",
+    "prompt": "Redacta un correo formal de máximo 100 palabras dirigido a una profesora. Incluye estas tres ideas: solicitar una reunión para revisar un proyecto de inteligencia artificial, proponer el miércoles a las 3 p. m. y agradecer su apoyo. No inventes nombres ni otros datos.",
+    "salida": "**Asunto:** Solicitud de reunión para revisar proyecto de inteligencia artificial\n\nEstimada profesora:\n\nEspero que este mensaje le encuentre bien. Me dirijo a usted para solicitar una reunión con el fin de revisar el proyecto de inteligencia artificial que estamos desarrollando en el marco de nuestro curso. Sería de gran ayuda si pudiera confirmar una cita para el próximo **miércoles a las 3:00 p. m.**\n\nAgradezco profundamente su apoyo y orientación en el proceso. Quedo atento a su respuesta para coordinar los detalles.\n\nSaludos cordiales,\n[Tu nombre]",
+    "temperatura": 0.2,
+    "max_tokens": 256,
+    "contexto": 4096,
+    "semilla": 42,
+    "tokens_generados": 131,
+    "ttft_s": 31.58696809999674,
+    "tiempo_total_s": 52.143880399999034,
+    "tokens_por_segundo": 6.380270450410565,
+    "motivo_fin": "stop",
+    "fecha": "2026-10-27T10:44:55.231976-06:00",
+    "calificacion": "",
+    "justificacion": ""
+  },
+  {
+    "id": "texto_02",
+    "categoria": "Generación de texto",
+    "modelo": "ministral-3:3b-instruct-2512-q4_K_M",
+    "prompt": "Redacta un aviso de mantenimiento de máximo 80 palabras para las personas usuarias de un laboratorio. Incluye estos datos: viernes de 6 p. m. a 8 p. m., interrupción del acceso a los servidores y recomendación de guardar el trabajo antes del inicio. No inventes fechas ni contactos.",
+    "salida": "**AVISO DE MANTENIMIENTO**\n\n**Viernes, de 6:00 p.m. a 8:00 p.m.**\nSe realizará mantenimiento preventivo en los servidores del laboratorio.\n**Interrupción del acceso:** Durante este horario, no podrán acceder a los sistemas.\n**Recomendación:** Guarde su trabajo antes del inicio del mantenimiento.\n\n*Gracias por su comprensión.*",
+    "temperatura": 0.2,
+    "max_tokens": 256,
+    "contexto": 4096,
+    "semilla": 42,
+    "tokens_generados": 89,
+    "ttft_s": 4.475772899997537,
+    "tiempo_total_s": 19.01451359999919,
+    "tokens_por_segundo": 6.136143935459349,
+    "motivo_fin": "stop",
+    "fecha": "2026-10-27T10:45:14.249392-06:00",
+    "calificacion": "",
+    "justificacion": ""
+  }
+]

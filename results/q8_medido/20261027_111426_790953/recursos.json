@@ -1,0 +1,2868 @@
+{
+  "modelo": "ministral-3:3b-instruct-2512-q8_0",
+  "etiqueta": "q8_medido",
+  "alcance": "Equipo completo, no solo Ollama",
+  "intervalo_muestreo_s": 0.5,
+  "codigo_salida": 0,
+  "duracion_s": 287.23981480000657,
+  "cpu_promedio_pct": 58.68280701754386,
+  "cpu_pico_pct": 97.7,
+  "ram_pico_gib": 12.844825744628906,
+  "muestras": [
+    {
+      "segundos": 0.007,
+      "cpu_equipo_pct": 0.0,
+      "ram_equipo_usada_gib": 8.162071228027344
+    },
+    {
+      "segundos": 0.508,
+      "cpu_equipo_pct": 16.5,
+      "ram_equipo_usada_gib": 8.167350769042969
+    },
+    {
+      "segundos": 1.009,
+      "cpu_equipo_pct": 8.9,
+      "ram_equipo_usada_gib": 8.168567657470703
+    },
+    {
+      "segundos": 1.51,
+      "cpu_equipo_pct": 10.1,
+      "ram_equipo_usada_gib": 8.174667358398438
+    },
+    {
+      "segundos": 2.011,
+      "cpu_equipo_pct": 5.4,
+      "ram_equipo_usada_gib": 8.172500610351562
+    },
+    {
+      "segundos": 2.511,
+      "cpu_equipo_pct": 14.8,
+      "ram_equipo_usada_gib": 8.205589294433594
+    },
+    {
+      "segundos": 3.012,
+      "cpu_equipo_pct": 19.5,
+      "ram_equipo_usada_gib": 8.243202209472656
+    },
+    {
+      "segundos": 3.513,
+      "cpu_equipo_pct": 32.4,
+      "ram_equipo_usada_gib": 8.37514877319336
+    },
+    {
+      "segundos": 4.013,
+      "cpu_equipo_pct": 33.2,
+      "ram_equipo_usada_gib": 9.24774169921875
+    },
+    {
+      "segundos": 4.514,
+      "cpu_equipo_pct": 21.5,
+      "ram_equipo_usada_gib": 10.123275756835938
+    },
+    {
+      "segundos": 5.015,
+      "cpu_equipo_pct": 26.1,
+      "ram_equipo_usada_gib": 11.044925689697266
+    },
+    {
+      "segundos": 5.515,
+      "cpu_equipo_pct": 38.0,
+      "ram_equipo_usada_gib": 11.762592315673828
+    },
+    {
+      "segundos": 6.016,
+      "cpu_equipo_pct": 51.7,
+      "ram_equipo_usada_gib": 12.077949523925781
+    },
+    {
+      "segundos": 6.517,
+      "cpu_equipo_pct": 40.1,
+      "ram_equipo_usada_gib": 12.196605682373047
+    },
+    {
+      "segundos": 7.018,
+      "cpu_equipo_pct": 30.4,
+      "ram_equipo_usada_gib": 12.424972534179688
+    },
+    {
+      "segundos": 7.518,
+      "cpu_equipo_pct": 26.3,
+      "ram_equipo_usada_gib": 12.641006469726562
+    },
+    {
+      "segundos": 8.019,
+      "cpu_equipo_pct": 37.4,
+      "ram_equipo_usada_gib": 12.741195678710938
+    },
+    {
+      "segundos": 8.52,
+      "cpu_equipo_pct": 56.0,
+      "ram_equipo_usada_gib": 12.77487564086914
+    },
+    {
+      "segundos": 9.021,
+      "cpu_equipo_pct": 51.8,
+      "ram_equipo_usada_gib": 12.781867980957031
+    },
+    {
+      "segundos": 9.522,
+      "cpu_equipo_pct": 59.4,
+      "ram_equipo_usada_gib": 12.74459457397461
+    },
+    {
+      "segundos": 10.026,
+      "cpu_equipo_pct": 90.1,
+      "ram_equipo_usada_gib": 12.745426177978516
+    },
+    {
+      "segundos": 10.544,
+      "cpu_equipo_pct": 84.9,
+      "ram_equipo_usada_gib": 12.748523712158203
+    },
+    {
+      "segundos": 11.162,
+      "cpu_equipo_pct": 96.2,
+      "ram_equipo_usada_gib": 12.766944885253906
+    },
+    {
+      "segundos": 11.664,
+      "cpu_equipo_pct": 69.6,
+      "ram_equipo_usada_gib": 12.774127960205078
+    },
+    {
+      "segundos": 12.165,
+      "cpu_equipo_pct": 50.8,
+      "ram_equipo_usada_gib": 12.775257110595703
+    },
+    {
+      "segundos": 12.666,
+      "cpu_equipo_pct": 58.6,
+      "ram_equipo_usada_gib": 12.775249481201172
+    },
+    {
+      "segundos": 13.168,
+      "cpu_equipo_pct": 66.8,
+      "ram_equipo_usada_gib": 12.7705078125
+    },
+    {
+      "segundos": 13.668,
+      "cpu_equipo_pct": 52.1,
+      "ram_equipo_usada_gib": 12.770198822021484
+    },
+    {
+      "segundos": 14.17,
+      "cpu_equipo_pct": 50.6,
+      "ram_equipo_usada_gib": 12.769935607910156
+    },
+    {
+      "segundos": 14.671,
+      "cpu_equipo_pct": 52.1,
+      "ram_equipo_usada_gib": 12.769699096679688
+    },
+    {
+      "segundos": 15.172,
+      "cpu_equipo_pct": 52.5,
+      "ram_equipo_usada_gib": 12.770172119140625
+    },
+    {
+      "segundos": 15.673,
+      "cpu_equipo_pct": 52.7,
+      "ram_equipo_usada_gib": 12.770050048828125
+    },
+    {
+      "segundos": 16.174,
+      "cpu_equipo_pct": 59.9,
+      "ram_equipo_usada_gib": 12.770439147949219
+    },
+    {
+      "segundos": 16.675,
+      "cpu_equipo_pct": 55.6,
+      "ram_equipo_usada_gib": 12.753170013427734
+    },
+    {
+      "segundos": 17.176,
+      "cpu_equipo_pct": 54.3,
+      "ram_equipo_usada_gib": 12.758010864257812
+    },
+    {
+      "segundos": 17.678,
+      "cpu_equipo_pct": 53.6,
+      "ram_equipo_usada_gib": 12.75783920288086
+    },
+    {
+      "segundos": 18.179,
+      "cpu_equipo_pct": 54.1,
+      "ram_equipo_usada_gib": 12.757869720458984
+    },
+    {
+      "segundos": 18.68,
+      "cpu_equipo_pct": 64.4,
+      "ram_equipo_usada_gib": 12.7567138671875
+    },
+    {
+      "segundos": 19.181,
+      "cpu_equipo_pct": 66.5,
+      "ram_equipo_usada_gib": 12.756935119628906
+    },
+    {
+      "segundos": 19.683,
+      "cpu_equipo_pct": 66.0,
+      "ram_equipo_usada_gib": 12.75674057006836
+    },
+    {
+      "segundos": 20.184,
+      "cpu_equipo_pct": 61.9,
+      "ram_equipo_usada_gib": 12.756881713867188
+    },
+    {
+      "segundos": 20.684,
+      "cpu_equipo_pct": 60.9,
+      "ram_equipo_usada_gib": 12.756561279296875
+    },
+    {
+      "segundos": 21.185,
+      "cpu_equipo_pct": 59.2,
+      "ram_equipo_usada_gib": 12.75653076171875
+    },
+    {
+      "segundos": 21.686,
+      "cpu_equipo_pct": 71.8,
+      "ram_equipo_usada_gib": 12.755455017089844
+    },
+    {
+      "segundos": 22.187,
+      "cpu_equipo_pct": 73.4,
+      "ram_equipo_usada_gib": 12.758899688720703
+    },
+    {
+      "segundos": 22.688,
+      "cpu_equipo_pct": 75.2,
+      "ram_equipo_usada_gib": 12.758193969726562
+    },
+    {
+      "segundos": 23.19,
+      "cpu_equipo_pct": 68.9,
+      "ram_equipo_usada_gib": 12.76144027709961
+    },
+    {
+      "segundos": 23.691,
+      "cpu_equipo_pct": 59.4,
+      "ram_equipo_usada_gib": 12.767284393310547
+    },
+    {
+      "segundos": 24.192,
+      "cpu_equipo_pct": 52.5,
+      "ram_equipo_usada_gib": 12.769744873046875
+    },
+    {
+      "segundos": 24.693,
+      "cpu_equipo_pct": 52.3,
+      "ram_equipo_usada_gib": 12.769699096679688
+    },
+    {
+      "segundos": 25.194,
+      "cpu_equipo_pct": 51.6,
+      "ram_equipo_usada_gib": 12.76986312866211
+    },
+    {
+      "segundos": 25.695,
+      "cpu_equipo_pct": 91.2,
+      "ram_equipo_usada_gib": 12.77524185180664
+    },
+    {
+      "segundos": 26.201,
+      "cpu_equipo_pct": 70.0,
+      "ram_equipo_usada_gib": 12.774261474609375
+    },
+    {
+      "segundos": 26.725,
+      "cpu_equipo_pct": 93.2,
+      "ram_equipo_usada_gib": 12.773941040039062
+    },
+    {
+      "segundos": 27.226,
+      "cpu_equipo_pct": 84.6,
+      "ram_equipo_usada_gib": 12.796737670898438
+    },
+    {
+      "segundos": 27.727,
+      "cpu_equipo_pct": 52.9,
+      "ram_equipo_usada_gib": 12.796318054199219
+    },
+    {
+      "segundos": 28.228,
+      "cpu_equipo_pct": 54.4,
+      "ram_equipo_usada_gib": 12.79665756225586
+    },
+    {
+      "segundos": 28.729,
+      "cpu_equipo_pct": 66.2,
+      "ram_equipo_usada_gib": 12.796371459960938
+    },
+    {
+      "segundos": 29.231,
+      "cpu_equipo_pct": 60.4,
+      "ram_equipo_usada_gib": 12.792694091796875
+    },
+    {
+      "segundos": 29.731,
+      "cpu_equipo_pct": 50.0,
+      "ram_equipo_usada_gib": 12.792343139648438
+    },
+    {
+      "segundos": 30.233,
+      "cpu_equipo_pct": 51.6,
+      "ram_equipo_usada_gib": 12.792407989501953
+    },
+    {
+      "segundos": 30.734,
+      "cpu_equipo_pct": 53.1,
+      "ram_equipo_usada_gib": 12.79202651977539
+    },
+    {
+      "segundos": 31.235,
+      "cpu_equipo_pct": 59.9,
+      "ram_equipo_usada_gib": 12.792545318603516
+    },
+    {
+      "segundos": 31.736,
+      "cpu_equipo_pct": 70.5,
+      "ram_equipo_usada_gib": 12.779964447021484
+    },
+    {
+      "segundos": 32.237,
+      "cpu_equipo_pct": 64.5,
+      "ram_equipo_usada_gib": 12.76751708984375
+    },
+    {
+      "segundos": 32.738,
+      "cpu_equipo_pct": 66.0,
+      "ram_equipo_usada_gib": 12.762359619140625
+    },
+    {
+      "segundos": 33.239,
+      "cpu_equipo_pct": 58.1,
+      "ram_equipo_usada_gib": 12.768909454345703
+    },
+    {
+      "segundos": 33.74,
+      "cpu_equipo_pct": 54.5,
+      "ram_equipo_usada_gib": 12.767791748046875
+    },
+    {
+      "segundos": 34.241,
+      "cpu_equipo_pct": 50.4,
+      "ram_equipo_usada_gib": 12.767826080322266
+    },
+    {
+      "segundos": 34.742,
+      "cpu_equipo_pct": 52.0,
+      "ram_equipo_usada_gib": 12.767444610595703
+    },
+    {
+      "segundos": 35.243,
+      "cpu_equipo_pct": 58.1,
+      "ram_equipo_usada_gib": 12.767425537109375
+    },
+    {
+      "segundos": 35.744,
+      "cpu_equipo_pct": 62.7,
+      "ram_equipo_usada_gib": 12.767284393310547
+    },
+    {
+      "segundos": 36.245,
+      "cpu_equipo_pct": 56.7,
+      "ram_equipo_usada_gib": 12.76742172241211
+    },
+    {
+      "segundos": 36.746,
+      "cpu_equipo_pct": 51.6,
+      "ram_equipo_usada_gib": 12.767169952392578
+    },
+    {
+      "segundos": 37.247,
+      "cpu_equipo_pct": 52.3,
+      "ram_equipo_usada_gib": 12.767303466796875
+    },
+    {
+      "segundos": 37.748,
+      "cpu_equipo_pct": 51.0,
+      "ram_equipo_usada_gib": 12.767082214355469
+    },
+    {
+      "segundos": 38.25,
+      "cpu_equipo_pct": 60.2,
+      "ram_equipo_usada_gib": 12.767375946044922
+    },
+    {
+      "segundos": 38.751,
+      "cpu_equipo_pct": 73.3,
+      "ram_equipo_usada_gib": 12.766754150390625
+    },
+    {
+      "segundos": 39.252,
+      "cpu_equipo_pct": 62.0,
+      "ram_equipo_usada_gib": 12.767864227294922
+    },
+    {
+      "segundos": 39.753,
+      "cpu_equipo_pct": 63.3,
+      "ram_equipo_usada_gib": 12.767391204833984
+    },
+    {
+      "segundos": 40.255,
+      "cpu_equipo_pct": 60.3,
+      "ram_equipo_usada_gib": 12.76755142211914
+    },
+    {
+      "segundos": 40.756,
+      "cpu_equipo_pct": 57.9,
+      "ram_equipo_usada_gib": 12.767219543457031
+    },
+    {
+      "segundos": 41.257,
+      "cpu_equipo_pct": 61.8,
+      "ram_equipo_usada_gib": 12.76706314086914
+    },
+    {
+      "segundos": 41.757,
+      "cpu_equipo_pct": 65.4,
+      "ram_equipo_usada_gib": 12.766448974609375
+    },
+    {
+      "segundos": 42.259,
+      "cpu_equipo_pct": 96.9,
+      "ram_equipo_usada_gib": 12.768604278564453
+    },
+    {
+      "segundos": 42.772,
+      "cpu_equipo_pct": 90.4,
+      "ram_equipo_usada_gib": 12.77065658569336
+    },
+    {
+      "segundos": 43.352,
+      "cpu_equipo_pct": 96.9,
+      "ram_equipo_usada_gib": 12.782649993896484
+    },
+    {
+      "segundos": 43.855,
+      "cpu_equipo_pct": 97.7,
+      "ram_equipo_usada_gib": 12.809730529785156
+    },
+    {
+      "segundos": 44.357,
+      "cpu_equipo_pct": 91.4,
+      "ram_equipo_usada_gib": 12.813518524169922
+    },
+    {
+      "segundos": 44.86,
+      "cpu_equipo_pct": 91.0,
+      "ram_equipo_usada_gib": 12.81488037109375
+    },
+    {
+      "segundos": 45.373,
+      "cpu_equipo_pct": 86.6,
+      "ram_equipo_usada_gib": 12.80935287475586
+    },
+    {
+      "segundos": 45.878,
+      "cpu_equipo_pct": 83.0,
+      "ram_equipo_usada_gib": 12.807910919189453
+    },
+    {
+      "segundos": 46.379,
+      "cpu_equipo_pct": 73.9,
+      "ram_equipo_usada_gib": 12.809894561767578
+    },
+    {
+      "segundos": 46.88,
+      "cpu_equipo_pct": 73.6,
+      "ram_equipo_usada_gib": 12.809516906738281
+    },
+    {
+      "segundos": 47.382,
+      "cpu_equipo_pct": 76.4,
+      "ram_equipo_usada_gib": 12.810924530029297
+    },
+    {
+      "segundos": 47.884,
+      "cpu_equipo_pct": 68.4,
+      "ram_equipo_usada_gib": 12.810638427734375
+    },
+    {
+      "segundos": 48.385,
+      "cpu_equipo_pct": 63.1,
+      "ram_equipo_usada_gib": 12.810966491699219
+    },
+    {
+      "segundos": 48.886,
+      "cpu_equipo_pct": 74.8,
+      "ram_equipo_usada_gib": 12.790973663330078
+    },
+    {
+      "segundos": 49.388,
+      "cpu_equipo_pct": 60.9,
+      "ram_equipo_usada_gib": 12.799251556396484
+    },
+    {
+      "segundos": 49.889,
+      "cpu_equipo_pct": 68.3,
+      "ram_equipo_usada_gib": 12.799076080322266
+    },
+    {
+      "segundos": 50.391,
+      "cpu_equipo_pct": 67.9,
+      "ram_equipo_usada_gib": 12.786724090576172
+    },
+    {
+      "segundos": 50.891,
+      "cpu_equipo_pct": 66.0,
+      "ram_equipo_usada_gib": 12.786441802978516
+    },
+    {
+      "segundos": 51.393,
+      "cpu_equipo_pct": 64.7,
+      "ram_equipo_usada_gib": 12.786415100097656
+    },
+    {
+      "segundos": 51.894,
+      "cpu_equipo_pct": 62.2,
+      "ram_equipo_usada_gib": 12.785907745361328
+    },
+    {
+      "segundos": 52.395,
+      "cpu_equipo_pct": 61.8,
+      "ram_equipo_usada_gib": 12.785820007324219
+    },
+    {
+      "segundos": 52.896,
+      "cpu_equipo_pct": 60.5,
+      "ram_equipo_usada_gib": 12.78561782836914
+    },
+    {
+      "segundos": 53.397,
+      "cpu_equipo_pct": 59.4,
+      "ram_equipo_usada_gib": 12.785614013671875
+    },
+    {
+      "segundos": 53.898,
+      "cpu_equipo_pct": 60.9,
+      "ram_equipo_usada_gib": 12.785636901855469
+    },
+    {
+      "segundos": 54.399,
+      "cpu_equipo_pct": 68.8,
+      "ram_equipo_usada_gib": 12.785633087158203
+    },
+    {
+      "segundos": 54.9,
+      "cpu_equipo_pct": 64.8,
+      "ram_equipo_usada_gib": 12.78567123413086
+    },
+    {
+      "segundos": 55.401,
+      "cpu_equipo_pct": 54.4,
+      "ram_equipo_usada_gib": 12.787406921386719
+    },
+    {
+      "segundos": 55.902,
+      "cpu_equipo_pct": 52.9,
+      "ram_equipo_usada_gib": 12.789520263671875
+    },
+    {
+      "segundos": 56.403,
+      "cpu_equipo_pct": 57.9,
+      "ram_equipo_usada_gib": 12.789852142333984
+    },
+    {
+      "segundos": 56.904,
+      "cpu_equipo_pct": 56.8,
+      "ram_equipo_usada_gib": 12.790332794189453
+    },
+    {
+      "segundos": 57.405,
+      "cpu_equipo_pct": 58.3,
+      "ram_equipo_usada_gib": 12.790477752685547
+    },
+    {
+      "segundos": 57.906,
+      "cpu_equipo_pct": 54.2,
+      "ram_equipo_usada_gib": 12.790542602539062
+    },
+    {
+      "segundos": 58.408,
+      "cpu_equipo_pct": 59.1,
+      "ram_equipo_usada_gib": 12.795600891113281
+    },
+    {
+      "segundos": 58.909,
+      "cpu_equipo_pct": 68.6,
+      "ram_equipo_usada_gib": 12.797367095947266
+    },
+    {
+      "segundos": 59.41,
+      "cpu_equipo_pct": 78.2,
+      "ram_equipo_usada_gib": 12.817272186279297
+    },
+    {
+      "segundos": 59.912,
+      "cpu_equipo_pct": 65.0,
+      "ram_equipo_usada_gib": 12.817398071289062
+    },
+    {
+      "segundos": 60.413,
+      "cpu_equipo_pct": 52.7,
+      "ram_equipo_usada_gib": 12.819931030273438
+    },
+    {
+      "segundos": 60.915,
+      "cpu_equipo_pct": 57.0,
+      "ram_equipo_usada_gib": 12.819992065429688
+    },
+    {
+      "segundos": 61.416,
+      "cpu_equipo_pct": 57.4,
+      "ram_equipo_usada_gib": 12.81393814086914
+    },
+    {
+      "segundos": 61.917,
+      "cpu_equipo_pct": 50.8,
+      "ram_equipo_usada_gib": 12.813934326171875
+    },
+    {
+      "segundos": 62.418,
+      "cpu_equipo_pct": 54.9,
+      "ram_equipo_usada_gib": 12.8177490234375
+    },
+    {
+      "segundos": 62.919,
+      "cpu_equipo_pct": 57.9,
+      "ram_equipo_usada_gib": 12.817668914794922
+    },
+    {
+      "segundos": 63.421,
+      "cpu_equipo_pct": 51.0,
+      "ram_equipo_usada_gib": 12.81759262084961
+    },
+    {
+      "segundos": 63.921,
+      "cpu_equipo_pct": 52.0,
+      "ram_equipo_usada_gib": 12.817459106445312
+    },
+    {
+      "segundos": 64.422,
+      "cpu_equipo_pct": 59.5,
+      "ram_equipo_usada_gib": 12.817516326904297
+    },
+    {
+      "segundos": 64.923,
+      "cpu_equipo_pct": 50.2,
+      "ram_equipo_usada_gib": 12.802074432373047
+    },
+    {
+      "segundos": 65.424,
+      "cpu_equipo_pct": 63.8,
+      "ram_equipo_usada_gib": 12.809188842773438
+    },
+    {
+      "segundos": 65.925,
+      "cpu_equipo_pct": 74.6,
+      "ram_equipo_usada_gib": 12.808547973632812
+    },
+    {
+      "segundos": 66.426,
+      "cpu_equipo_pct": 65.2,
+      "ram_equipo_usada_gib": 12.808563232421875
+    },
+    {
+      "segundos": 66.927,
+      "cpu_equipo_pct": 52.0,
+      "ram_equipo_usada_gib": 12.808406829833984
+    },
+    {
+      "segundos": 67.429,
+      "cpu_equipo_pct": 56.3,
+      "ram_equipo_usada_gib": 12.808361053466797
+    },
+    {
+      "segundos": 67.93,
+      "cpu_equipo_pct": 56.5,
+      "ram_equipo_usada_gib": 12.80831527709961
+    },
+    {
+      "segundos": 68.431,
+      "cpu_equipo_pct": 52.7,
+      "ram_equipo_usada_gib": 12.80828857421875
+    },
+    {
+      "segundos": 68.932,
+      "cpu_equipo_pct": 55.5,
+      "ram_equipo_usada_gib": 12.806625366210938
+    },
+    {
+      "segundos": 69.432,
+      "cpu_equipo_pct": 60.9,
+      "ram_equipo_usada_gib": 12.807716369628906
+    },
+    {
+      "segundos": 69.934,
+      "cpu_equipo_pct": 51.2,
+      "ram_equipo_usada_gib": 12.8067626953125
+    },
+    {
+      "segundos": 70.435,
+      "cpu_equipo_pct": 53.7,
+      "ram_equipo_usada_gib": 12.807609558105469
+    },
+    {
+      "segundos": 70.935,
+      "cpu_equipo_pct": 53.3,
+      "ram_equipo_usada_gib": 12.807212829589844
+    },
+    {
+      "segundos": 71.437,
+      "cpu_equipo_pct": 54.3,
+      "ram_equipo_usada_gib": 12.807308197021484
+    },
+    {
+      "segundos": 71.938,
+      "cpu_equipo_pct": 54.8,
+      "ram_equipo_usada_gib": 12.805198669433594
+    },
+    {
+      "segundos": 72.439,
+      "cpu_equipo_pct": 53.5,
+      "ram_equipo_usada_gib": 12.806571960449219
+    },
+    {
+      "segundos": 72.94,
+      "cpu_equipo_pct": 52.1,
+      "ram_equipo_usada_gib": 12.806537628173828
+    },
+    {
+      "segundos": 73.441,
+      "cpu_equipo_pct": 62.1,
+      "ram_equipo_usada_gib": 12.806514739990234
+    },
+    {
+      "segundos": 73.942,
+      "cpu_equipo_pct": 52.0,
+      "ram_equipo_usada_gib": 12.806461334228516
+    },
+    {
+      "segundos": 74.443,
+      "cpu_equipo_pct": 56.5,
+      "ram_equipo_usada_gib": 12.802223205566406
+    },
+    {
+      "segundos": 74.944,
+      "cpu_equipo_pct": 66.9,
+      "ram_equipo_usada_gib": 12.80344009399414
+    },
+    {
+      "segundos": 75.445,
+      "cpu_equipo_pct": 76.0,
+      "ram_equipo_usada_gib": 12.813186645507812
+    },
+    {
+      "segundos": 75.946,
+      "cpu_equipo_pct": 70.8,
+      "ram_equipo_usada_gib": 12.821311950683594
+    },
+    {
+      "segundos": 76.448,
+      "cpu_equipo_pct": 59.0,
+      "ram_equipo_usada_gib": 12.824092864990234
+    },
+    {
+      "segundos": 76.949,
+      "cpu_equipo_pct": 62.0,
+      "ram_equipo_usada_gib": 12.824230194091797
+    },
+    {
+      "segundos": 77.45,
+      "cpu_equipo_pct": 50.4,
+      "ram_equipo_usada_gib": 12.817607879638672
+    },
+    {
+      "segundos": 77.951,
+      "cpu_equipo_pct": 51.4,
+      "ram_equipo_usada_gib": 12.81747817993164
+    },
+    {
+      "segundos": 78.481,
+      "cpu_equipo_pct": 77.4,
+      "ram_equipo_usada_gib": 12.821800231933594
+    },
+    {
+      "segundos": 79.021,
+      "cpu_equipo_pct": 63.4,
+      "ram_equipo_usada_gib": 12.825237274169922
+    },
+    {
+      "segundos": 79.521,
+      "cpu_equipo_pct": 51.6,
+      "ram_equipo_usada_gib": 12.826229095458984
+    },
+    {
+      "segundos": 80.022,
+      "cpu_equipo_pct": 59.1,
+      "ram_equipo_usada_gib": 12.826042175292969
+    },
+    {
+      "segundos": 80.523,
+      "cpu_equipo_pct": 52.5,
+      "ram_equipo_usada_gib": 12.826602935791016
+    },
+    {
+      "segundos": 81.024,
+      "cpu_equipo_pct": 52.2,
+      "ram_equipo_usada_gib": 12.810844421386719
+    },
+    {
+      "segundos": 81.525,
+      "cpu_equipo_pct": 64.1,
+      "ram_equipo_usada_gib": 12.818675994873047
+    },
+    {
+      "segundos": 82.026,
+      "cpu_equipo_pct": 55.0,
+      "ram_equipo_usada_gib": 12.818260192871094
+    },
+    {
+      "segundos": 82.527,
+      "cpu_equipo_pct": 50.6,
+      "ram_equipo_usada_gib": 12.817970275878906
+    },
+    {
+      "segundos": 83.028,
+      "cpu_equipo_pct": 57.2,
+      "ram_equipo_usada_gib": 12.817249298095703
+    },
+    {
+      "segundos": 83.529,
+      "cpu_equipo_pct": 56.9,
+      "ram_equipo_usada_gib": 12.817264556884766
+    },
+    {
+      "segundos": 84.03,
+      "cpu_equipo_pct": 64.5,
+      "ram_equipo_usada_gib": 12.816600799560547
+    },
+    {
+      "segundos": 84.532,
+      "cpu_equipo_pct": 65.4,
+      "ram_equipo_usada_gib": 12.816669464111328
+    },
+    {
+      "segundos": 85.033,
+      "cpu_equipo_pct": 60.2,
+      "ram_equipo_usada_gib": 12.816390991210938
+    },
+    {
+      "segundos": 85.534,
+      "cpu_equipo_pct": 56.0,
+      "ram_equipo_usada_gib": 12.816673278808594
+    },
+    {
+      "segundos": 86.035,
+      "cpu_equipo_pct": 64.1,
+      "ram_equipo_usada_gib": 12.816448211669922
+    },
+    {
+      "segundos": 86.536,
+      "cpu_equipo_pct": 61.5,
+      "ram_equipo_usada_gib": 12.81637191772461
+    },
+    {
+      "segundos": 87.038,
+      "cpu_equipo_pct": 16.2,
+      "ram_equipo_usada_gib": 12.81600570678711
+    },
+    {
+      "segundos": 87.538,
+      "cpu_equipo_pct": 10.5,
+      "ram_equipo_usada_gib": 12.81597900390625
+    },
+    {
+      "segundos": 88.039,
+      "cpu_equipo_pct": 26.2,
+      "ram_equipo_usada_gib": 12.815372467041016
+    },
+    {
+      "segundos": 88.54,
+      "cpu_equipo_pct": 15.8,
+      "ram_equipo_usada_gib": 12.815467834472656
+    },
+    {
+      "segundos": 89.041,
+      "cpu_equipo_pct": 65.6,
+      "ram_equipo_usada_gib": 12.815326690673828
+    },
+    {
+      "segundos": 89.542,
+      "cpu_equipo_pct": 51.2,
+      "ram_equipo_usada_gib": 12.815540313720703
+    },
+    {
+      "segundos": 90.043,
+      "cpu_equipo_pct": 50.0,
+      "ram_equipo_usada_gib": 12.815189361572266
+    },
+    {
+      "segundos": 90.55,
+      "cpu_equipo_pct": 69.4,
+      "ram_equipo_usada_gib": 12.818679809570312
+    },
+    {
+      "segundos": 91.061,
+      "cpu_equipo_pct": 75.0,
+      "ram_equipo_usada_gib": 12.802619934082031
+    },
+    {
+      "segundos": 91.572,
+      "cpu_equipo_pct": 79.6,
+      "ram_equipo_usada_gib": 12.813880920410156
+    },
+    {
+      "segundos": 92.164,
+      "cpu_equipo_pct": 96.4,
+      "ram_equipo_usada_gib": 12.837234497070312
+    },
+    {
+      "segundos": 92.688,
+      "cpu_equipo_pct": 93.3,
+      "ram_equipo_usada_gib": 12.840412139892578
+    },
+    {
+      "segundos": 93.19,
+      "cpu_equipo_pct": 69.3,
+      "ram_equipo_usada_gib": 12.83962631225586
+    },
+    {
+      "segundos": 93.691,
+      "cpu_equipo_pct": 61.6,
+      "ram_equipo_usada_gib": 12.844825744628906
+    },
+    {
+      "segundos": 94.192,
+      "cpu_equipo_pct": 65.1,
+      "ram_equipo_usada_gib": 12.840877532958984
+    },
+    {
+      "segundos": 94.693,
+      "cpu_equipo_pct": 96.9,
+      "ram_equipo_usada_gib": 12.754158020019531
+    },
+    {
+      "segundos": 95.194,
+      "cpu_equipo_pct": 88.8,
+      "ram_equipo_usada_gib": 12.675369262695312
+    },
+    {
+      "segundos": 95.696,
+      "cpu_equipo_pct": 68.8,
+      "ram_equipo_usada_gib": 12.623424530029297
+    },
+    {
+      "segundos": 96.197,
+      "cpu_equipo_pct": 50.4,
+      "ram_equipo_usada_gib": 12.617412567138672
+    },
+    {
+      "segundos": 96.698,
+      "cpu_equipo_pct": 53.9,
+      "ram_equipo_usada_gib": 12.62408447265625
+    },
+    {
+      "segundos": 97.199,
+      "cpu_equipo_pct": 54.1,
+      "ram_equipo_usada_gib": 12.623943328857422
+    },
+    {
+      "segundos": 97.7,
+      "cpu_equipo_pct": 50.4,
+      "ram_equipo_usada_gib": 12.623100280761719
+    },
+    {
+      "segundos": 98.202,
+      "cpu_equipo_pct": 53.1,
+      "ram_equipo_usada_gib": 12.609317779541016
+    },
+    {
+      "segundos": 98.703,
+      "cpu_equipo_pct": 56.2,
+      "ram_equipo_usada_gib": 12.613651275634766
+    },
+    {
+      "segundos": 99.204,
+      "cpu_equipo_pct": 51.1,
+      "ram_equipo_usada_gib": 12.613697052001953
+    },
+    {
+      "segundos": 99.705,
+      "cpu_equipo_pct": 50.0,
+      "ram_equipo_usada_gib": 12.613433837890625
+    },
+    {
+      "segundos": 100.206,
+      "cpu_equipo_pct": 52.9,
+      "ram_equipo_usada_gib": 12.61313247680664
+    },
+    {
+      "segundos": 100.709,
+      "cpu_equipo_pct": 50.8,
+      "ram_equipo_usada_gib": 12.612972259521484
+    },
+    {
+      "segundos": 101.21,
+      "cpu_equipo_pct": 57.6,
+      "ram_equipo_usada_gib": 12.61281967163086
+    },
+    {
+      "segundos": 101.711,
+      "cpu_equipo_pct": 63.5,
+      "ram_equipo_usada_gib": 12.612529754638672
+    },
+    {
+      "segundos": 102.212,
+      "cpu_equipo_pct": 50.6,
+      "ram_equipo_usada_gib": 12.612640380859375
+    },
+    {
+      "segundos": 102.714,
+      "cpu_equipo_pct": 50.2,
+      "ram_equipo_usada_gib": 12.612510681152344
+    },
+    {
+      "segundos": 103.214,
+      "cpu_equipo_pct": 56.2,
+      "ram_equipo_usada_gib": 12.612468719482422
+    },
+    {
+      "segundos": 103.715,
+      "cpu_equipo_pct": 50.0,
+      "ram_equipo_usada_gib": 12.612251281738281
+    },
+    {
+      "segundos": 104.216,
+      "cpu_equipo_pct": 58.8,
+      "ram_equipo_usada_gib": 12.612014770507812
+    },
+    {
+      "segundos": 104.718,
+      "cpu_equipo_pct": 67.8,
+      "ram_equipo_usada_gib": 12.611686706542969
+    },
+    {
+      "segundos": 105.219,
+      "cpu_equipo_pct": 61.1,
+      "ram_equipo_usada_gib": 12.61184310913086
+    },
+    {
+      "segundos": 105.72,
+      "cpu_equipo_pct": 61.8,
+      "ram_equipo_usada_gib": 12.611473083496094
+    },
+    {
+      "segundos": 106.222,
+      "cpu_equipo_pct": 68.3,
+      "ram_equipo_usada_gib": 12.611698150634766
+    },
+    {
+      "segundos": 106.723,
+      "cpu_equipo_pct": 60.9,
+      "ram_equipo_usada_gib": 12.61123275756836
+    },
+    {
+      "segundos": 107.224,
+      "cpu_equipo_pct": 64.8,
+      "ram_equipo_usada_gib": 12.611263275146484
+    },
+    {
+      "segundos": 107.725,
+      "cpu_equipo_pct": 67.2,
+      "ram_equipo_usada_gib": 12.611236572265625
+    },
+    {
+      "segundos": 108.227,
+      "cpu_equipo_pct": 88.8,
+      "ram_equipo_usada_gib": 12.613651275634766
+    },
+    {
+      "segundos": 108.733,
+      "cpu_equipo_pct": 94.4,
+      "ram_equipo_usada_gib": 12.615959167480469
+    },
+    {
+      "segundos": 109.238,
+      "cpu_equipo_pct": 93.4,
+      "ram_equipo_usada_gib": 12.639060974121094
+    },
+    {
+      "segundos": 109.739,
+      "cpu_equipo_pct": 81.9,
+      "ram_equipo_usada_gib": 12.638038635253906
+    },
+    {
+      "segundos": 110.24,
+      "cpu_equipo_pct": 77.9,
+      "ram_equipo_usada_gib": 12.639541625976562
+    },
+    {
+      "segundos": 110.741,
+      "cpu_equipo_pct": 70.5,
+      "ram_equipo_usada_gib": 12.637214660644531
+    },
+    {
+      "segundos": 111.242,
+      "cpu_equipo_pct": 80.9,
+      "ram_equipo_usada_gib": 12.638648986816406
+    },
+    {
+      "segundos": 111.743,
+      "cpu_equipo_pct": 76.2,
+      "ram_equipo_usada_gib": 12.638542175292969
+    },
+    {
+      "segundos": 112.244,
+      "cpu_equipo_pct": 68.2,
+      "ram_equipo_usada_gib": 12.637321472167969
+    },
+    {
+      "segundos": 112.745,
+      "cpu_equipo_pct": 19.7,
+      "ram_equipo_usada_gib": 12.637096405029297
+    },
+    {
+      "segundos": 113.246,
+      "cpu_equipo_pct": 18.1,
+      "ram_equipo_usada_gib": 12.636592864990234
+    },
+    {
+      "segundos": 113.747,
+      "cpu_equipo_pct": 18.1,
+      "ram_equipo_usada_gib": 12.636241912841797
+    },
+    {
+      "segundos": 114.247,
+      "cpu_equipo_pct": 53.6,
+      "ram_equipo_usada_gib": 12.635944366455078
+    },
+    {
+      "segundos": 114.748,
+      "cpu_equipo_pct": 55.8,
+      "ram_equipo_usada_gib": 12.616714477539062
+    },
+    {
+      "segundos": 115.249,
+      "cpu_equipo_pct": 66.0,
+      "ram_equipo_usada_gib": 12.616886138916016
+    },
+    {
+      "segundos": 115.75,
+      "cpu_equipo_pct": 62.1,
+      "ram_equipo_usada_gib": 12.60714340209961
+    },
+    {
+      "segundos": 116.252,
+      "cpu_equipo_pct": 61.1,
+      "ram_equipo_usada_gib": 12.607109069824219
+    },
+    {
+      "segundos": 116.753,
+      "cpu_equipo_pct": 66.8,
+      "ram_equipo_usada_gib": 12.607109069824219
+    },
+    {
+      "segundos": 117.253,
+      "cpu_equipo_pct": 56.5,
+      "ram_equipo_usada_gib": 12.607101440429688
+    },
+    {
+      "segundos": 117.755,
+      "cpu_equipo_pct": 59.9,
+      "ram_equipo_usada_gib": 12.607101440429688
+    },
+    {
+      "segundos": 118.256,
+      "cpu_equipo_pct": 64.8,
+      "ram_equipo_usada_gib": 12.607101440429688
+    },
+    {
+      "segundos": 118.757,
+      "cpu_equipo_pct": 59.5,
+      "ram_equipo_usada_gib": 12.607101440429688
+    },
+    {
+      "segundos": 119.257,
+      "cpu_equipo_pct": 61.6,
+      "ram_equipo_usada_gib": 12.607086181640625
+    },
+    {
+      "segundos": 119.758,
+      "cpu_equipo_pct": 58.5,
+      "ram_equipo_usada_gib": 12.60708236694336
+    },
+    {
+      "segundos": 120.259,
+      "cpu_equipo_pct": 61.9,
+      "ram_equipo_usada_gib": 12.6070556640625
+    },
+    {
+      "segundos": 120.761,
+      "cpu_equipo_pct": 51.6,
+      "ram_equipo_usada_gib": 12.606998443603516
+    },
+    {
+      "segundos": 121.262,
+      "cpu_equipo_pct": 57.9,
+      "ram_equipo_usada_gib": 12.606986999511719
+    },
+    {
+      "segundos": 121.762,
+      "cpu_equipo_pct": 57.5,
+      "ram_equipo_usada_gib": 12.606990814208984
+    },
+    {
+      "segundos": 122.264,
+      "cpu_equipo_pct": 55.4,
+      "ram_equipo_usada_gib": 12.606861114501953
+    },
+    {
+      "segundos": 122.765,
+      "cpu_equipo_pct": 52.0,
+      "ram_equipo_usada_gib": 12.606857299804688
+    },
+    {
+      "segundos": 123.266,
+      "cpu_equipo_pct": 59.5,
+      "ram_equipo_usada_gib": 12.606884002685547
+    },
+    {
+      "segundos": 123.767,
+      "cpu_equipo_pct": 60.9,
+      "ram_equipo_usada_gib": 12.605899810791016
+    },
+    {
+      "segundos": 124.269,
+      "cpu_equipo_pct": 65.1,
+      "ram_equipo_usada_gib": 12.620704650878906
+    },
+    {
+      "segundos": 124.772,
+      "cpu_equipo_pct": 76.7,
+      "ram_equipo_usada_gib": 12.617778778076172
+    },
+    {
+      "segundos": 125.289,
+      "cpu_equipo_pct": 88.8,
+      "ram_equipo_usada_gib": 12.643383026123047
+    },
+    {
+      "segundos": 125.83,
+      "cpu_equipo_pct": 85.1,
+      "ram_equipo_usada_gib": 12.642921447753906
+    },
+    {
+      "segundos": 126.331,
+      "cpu_equipo_pct": 64.2,
+      "ram_equipo_usada_gib": 12.647132873535156
+    },
+    {
+      "segundos": 126.832,
+      "cpu_equipo_pct": 66.0,
+      "ram_equipo_usada_gib": 12.646907806396484
+    },
+    {
+      "segundos": 127.333,
+      "cpu_equipo_pct": 58.5,
+      "ram_equipo_usada_gib": 12.641170501708984
+    },
+    {
+      "segundos": 127.834,
+      "cpu_equipo_pct": 50.6,
+      "ram_equipo_usada_gib": 12.641040802001953
+    },
+    {
+      "segundos": 128.335,
+      "cpu_equipo_pct": 56.7,
+      "ram_equipo_usada_gib": 12.641178131103516
+    },
+    {
+      "segundos": 128.836,
+      "cpu_equipo_pct": 50.4,
+      "ram_equipo_usada_gib": 12.640804290771484
+    },
+    {
+      "segundos": 129.337,
+      "cpu_equipo_pct": 55.0,
+      "ram_equipo_usada_gib": 12.641040802001953
+    },
+    {
+      "segundos": 129.838,
+      "cpu_equipo_pct": 51.9,
+      "ram_equipo_usada_gib": 12.640670776367188
+    },
+    {
+      "segundos": 130.339,
+      "cpu_equipo_pct": 60.4,
+      "ram_equipo_usada_gib": 12.640754699707031
+    },
+    {
+      "segundos": 130.84,
+      "cpu_equipo_pct": 50.2,
+      "ram_equipo_usada_gib": 12.622119903564453
+    },
+    {
+      "segundos": 131.341,
+      "cpu_equipo_pct": 57.2,
+      "ram_equipo_usada_gib": 12.620304107666016
+    },
+    {
+      "segundos": 131.842,
+      "cpu_equipo_pct": 52.5,
+      "ram_equipo_usada_gib": 12.61752700805664
+    },
+    {
+      "segundos": 132.343,
+      "cpu_equipo_pct": 51.7,
+      "ram_equipo_usada_gib": 12.62485122680664
+    },
+    {
+      "segundos": 132.845,
+      "cpu_equipo_pct": 54.3,
+      "ram_equipo_usada_gib": 12.624706268310547
+    },
+    {
+      "segundos": 133.346,
+      "cpu_equipo_pct": 59.9,
+      "ram_equipo_usada_gib": 12.623504638671875
+    },
+    {
+      "segundos": 133.847,
+      "cpu_equipo_pct": 68.5,
+      "ram_equipo_usada_gib": 12.619991302490234
+    },
+    {
+      "segundos": 134.348,
+      "cpu_equipo_pct": 67.6,
+      "ram_equipo_usada_gib": 12.623016357421875
+    },
+    {
+      "segundos": 134.849,
+      "cpu_equipo_pct": 53.8,
+      "ram_equipo_usada_gib": 12.618896484375
+    },
+    {
+      "segundos": 135.35,
+      "cpu_equipo_pct": 70.1,
+      "ram_equipo_usada_gib": 12.618236541748047
+    },
+    {
+      "segundos": 135.852,
+      "cpu_equipo_pct": 64.1,
+      "ram_equipo_usada_gib": 12.622081756591797
+    },
+    {
+      "segundos": 136.353,
+      "cpu_equipo_pct": 55.5,
+      "ram_equipo_usada_gib": 12.626029968261719
+    },
+    {
+      "segundos": 136.854,
+      "cpu_equipo_pct": 63.8,
+      "ram_equipo_usada_gib": 12.629711151123047
+    },
+    {
+      "segundos": 137.355,
+      "cpu_equipo_pct": 68.2,
+      "ram_equipo_usada_gib": 12.630134582519531
+    },
+    {
+      "segundos": 137.856,
+      "cpu_equipo_pct": 61.2,
+      "ram_equipo_usada_gib": 12.626689910888672
+    },
+    {
+      "segundos": 138.357,
+      "cpu_equipo_pct": 55.6,
+      "ram_equipo_usada_gib": 12.627708435058594
+    },
+    {
+      "segundos": 138.858,
+      "cpu_equipo_pct": 51.4,
+      "ram_equipo_usada_gib": 12.627552032470703
+    },
+    {
+      "segundos": 139.359,
+      "cpu_equipo_pct": 51.2,
+      "ram_equipo_usada_gib": 12.627182006835938
+    },
+    {
+      "segundos": 139.86,
+      "cpu_equipo_pct": 58.3,
+      "ram_equipo_usada_gib": 12.627025604248047
+    },
+    {
+      "segundos": 140.361,
+      "cpu_equipo_pct": 83.9,
+      "ram_equipo_usada_gib": 12.63791275024414
+    },
+    {
+      "segundos": 140.863,
+      "cpu_equipo_pct": 80.3,
+      "ram_equipo_usada_gib": 12.638282775878906
+    },
+    {
+      "segundos": 141.366,
+      "cpu_equipo_pct": 92.4,
+      "ram_equipo_usada_gib": 12.642112731933594
+    },
+    {
+      "segundos": 141.875,
+      "cpu_equipo_pct": 74.5,
+      "ram_equipo_usada_gib": 12.650115966796875
+    },
+    {
+      "segundos": 142.376,
+      "cpu_equipo_pct": 54.0,
+      "ram_equipo_usada_gib": 12.651603698730469
+    },
+    {
+      "segundos": 142.877,
+      "cpu_equipo_pct": 57.2,
+      "ram_equipo_usada_gib": 12.651622772216797
+    },
+    {
+      "segundos": 143.377,
+      "cpu_equipo_pct": 56.6,
+      "ram_equipo_usada_gib": 12.642402648925781
+    },
+    {
+      "segundos": 143.878,
+      "cpu_equipo_pct": 54.9,
+      "ram_equipo_usada_gib": 12.642322540283203
+    },
+    {
+      "segundos": 144.38,
+      "cpu_equipo_pct": 51.8,
+      "ram_equipo_usada_gib": 12.64999771118164
+    },
+    {
+      "segundos": 144.88,
+      "cpu_equipo_pct": 57.2,
+      "ram_equipo_usada_gib": 12.649909973144531
+    },
+    {
+      "segundos": 145.382,
+      "cpu_equipo_pct": 51.6,
+      "ram_equipo_usada_gib": 12.64957046508789
+    },
+    {
+      "segundos": 145.882,
+      "cpu_equipo_pct": 70.5,
+      "ram_equipo_usada_gib": 12.648883819580078
+    },
+    {
+      "segundos": 146.383,
+      "cpu_equipo_pct": 50.6,
+      "ram_equipo_usada_gib": 12.649662017822266
+    },
+    {
+      "segundos": 146.884,
+      "cpu_equipo_pct": 51.4,
+      "ram_equipo_usada_gib": 12.631107330322266
+    },
+    {
+      "segundos": 147.385,
+      "cpu_equipo_pct": 59.9,
+      "ram_equipo_usada_gib": 12.635826110839844
+    },
+    {
+      "segundos": 147.886,
+      "cpu_equipo_pct": 51.9,
+      "ram_equipo_usada_gib": 12.635650634765625
+    },
+    {
+      "segundos": 148.387,
+      "cpu_equipo_pct": 70.3,
+      "ram_equipo_usada_gib": 12.635391235351562
+    },
+    {
+      "segundos": 148.889,
+      "cpu_equipo_pct": 52.5,
+      "ram_equipo_usada_gib": 12.635311126708984
+    },
+    {
+      "segundos": 149.39,
+      "cpu_equipo_pct": 54.9,
+      "ram_equipo_usada_gib": 12.635223388671875
+    },
+    {
+      "segundos": 149.891,
+      "cpu_equipo_pct": 58.1,
+      "ram_equipo_usada_gib": 12.633674621582031
+    },
+    {
+      "segundos": 150.392,
+      "cpu_equipo_pct": 68.5,
+      "ram_equipo_usada_gib": 12.634166717529297
+    },
+    {
+      "segundos": 150.894,
+      "cpu_equipo_pct": 63.2,
+      "ram_equipo_usada_gib": 12.633583068847656
+    },
+    {
+      "segundos": 151.394,
+      "cpu_equipo_pct": 61.1,
+      "ram_equipo_usada_gib": 12.633861541748047
+    },
+    {
+      "segundos": 151.896,
+      "cpu_equipo_pct": 63.1,
+      "ram_equipo_usada_gib": 12.633743286132812
+    },
+    {
+      "segundos": 152.397,
+      "cpu_equipo_pct": 57.1,
+      "ram_equipo_usada_gib": 12.633831024169922
+    },
+    {
+      "segundos": 152.898,
+      "cpu_equipo_pct": 61.6,
+      "ram_equipo_usada_gib": 12.633590698242188
+    },
+    {
+      "segundos": 153.399,
+      "cpu_equipo_pct": 66.4,
+      "ram_equipo_usada_gib": 12.633255004882812
+    },
+    {
+      "segundos": 153.9,
+      "cpu_equipo_pct": 64.9,
+      "ram_equipo_usada_gib": 12.633064270019531
+    },
+    {
+      "segundos": 154.401,
+      "cpu_equipo_pct": 57.8,
+      "ram_equipo_usada_gib": 12.63336181640625
+    },
+    {
+      "segundos": 154.902,
+      "cpu_equipo_pct": 57.2,
+      "ram_equipo_usada_gib": 12.633243560791016
+    },
+    {
+      "segundos": 155.404,
+      "cpu_equipo_pct": 60.2,
+      "ram_equipo_usada_gib": 12.633514404296875
+    },
+    {
+      "segundos": 155.905,
+      "cpu_equipo_pct": 54.5,
+      "ram_equipo_usada_gib": 12.632972717285156
+    },
+    {
+      "segundos": 156.414,
+      "cpu_equipo_pct": 72.9,
+      "ram_equipo_usada_gib": 12.63730239868164
+    },
+    {
+      "segundos": 156.955,
+      "cpu_equipo_pct": 81.6,
+      "ram_equipo_usada_gib": 12.636234283447266
+    },
+    {
+      "segundos": 157.583,
+      "cpu_equipo_pct": 89.7,
+      "ram_equipo_usada_gib": 12.648170471191406
+    },
+    {
+      "segundos": 158.084,
+      "cpu_equipo_pct": 75.2,
+      "ram_equipo_usada_gib": 12.658252716064453
+    },
+    {
+      "segundos": 158.585,
+      "cpu_equipo_pct": 59.5,
+      "ram_equipo_usada_gib": 12.6612548828125
+    },
+    {
+      "segundos": 159.086,
+      "cpu_equipo_pct": 50.0,
+      "ram_equipo_usada_gib": 12.661060333251953
+    },
+    {
+      "segundos": 159.588,
+      "cpu_equipo_pct": 52.0,
+      "ram_equipo_usada_gib": 12.649364471435547
+    },
+    {
+      "segundos": 160.089,
+      "cpu_equipo_pct": 53.7,
+      "ram_equipo_usada_gib": 12.64938735961914
+    },
+    {
+      "segundos": 160.59,
+      "cpu_equipo_pct": 50.8,
+      "ram_equipo_usada_gib": 12.657100677490234
+    },
+    {
+      "segundos": 161.091,
+      "cpu_equipo_pct": 34.2,
+      "ram_equipo_usada_gib": 12.65658950805664
+    },
+    {
+      "segundos": 161.592,
+      "cpu_equipo_pct": 12.3,
+      "ram_equipo_usada_gib": 12.656414031982422
+    },
+    {
+      "segundos": 162.094,
+      "cpu_equipo_pct": 3.1,
+      "ram_equipo_usada_gib": 12.655677795410156
+    },
+    {
+      "segundos": 162.595,
+      "cpu_equipo_pct": 0.8,
+      "ram_equipo_usada_gib": 12.656494140625
+    },
+    {
+      "segundos": 163.095,
+      "cpu_equipo_pct": 35.4,
+      "ram_equipo_usada_gib": 12.636646270751953
+    },
+    {
+      "segundos": 163.596,
+      "cpu_equipo_pct": 53.1,
+      "ram_equipo_usada_gib": 12.643287658691406
+    },
+    {
+      "segundos": 164.098,
+      "cpu_equipo_pct": 50.8,
+      "ram_equipo_usada_gib": 12.642326354980469
+    },
+    {
+      "segundos": 164.598,
+      "cpu_equipo_pct": 57.2,
+      "ram_equipo_usada_gib": 12.642108917236328
+    },
+    {
+      "segundos": 165.1,
+      "cpu_equipo_pct": 54.3,
+      "ram_equipo_usada_gib": 12.641910552978516
+    },
+    {
+      "segundos": 165.601,
+      "cpu_equipo_pct": 50.8,
+      "ram_equipo_usada_gib": 12.64187240600586
+    },
+    {
+      "segundos": 166.102,
+      "cpu_equipo_pct": 56.3,
+      "ram_equipo_usada_gib": 12.641521453857422
+    },
+    {
+      "segundos": 166.603,
+      "cpu_equipo_pct": 54.1,
+      "ram_equipo_usada_gib": 12.641616821289062
+    },
+    {
+      "segundos": 167.104,
+      "cpu_equipo_pct": 55.2,
+      "ram_equipo_usada_gib": 12.641311645507812
+    },
+    {
+      "segundos": 167.605,
+      "cpu_equipo_pct": 53.5,
+      "ram_equipo_usada_gib": 12.641254425048828
+    },
+    {
+      "segundos": 168.106,
+      "cpu_equipo_pct": 68.6,
+      "ram_equipo_usada_gib": 12.644969940185547
+    },
+    {
+      "segundos": 168.607,
+      "cpu_equipo_pct": 79.8,
+      "ram_equipo_usada_gib": 12.663997650146484
+    },
+    {
+      "segundos": 169.108,
+      "cpu_equipo_pct": 59.3,
+      "ram_equipo_usada_gib": 12.665885925292969
+    },
+    {
+      "segundos": 169.609,
+      "cpu_equipo_pct": 69.7,
+      "ram_equipo_usada_gib": 12.712760925292969
+    },
+    {
+      "segundos": 170.111,
+      "cpu_equipo_pct": 79.6,
+      "ram_equipo_usada_gib": 12.68960189819336
+    },
+    {
+      "segundos": 170.611,
+      "cpu_equipo_pct": 68.3,
+      "ram_equipo_usada_gib": 12.689559936523438
+    },
+    {
+      "segundos": 171.113,
+      "cpu_equipo_pct": 68.4,
+      "ram_equipo_usada_gib": 12.689216613769531
+    },
+    {
+      "segundos": 171.614,
+      "cpu_equipo_pct": 68.1,
+      "ram_equipo_usada_gib": 12.68893814086914
+    },
+    {
+      "segundos": 172.115,
+      "cpu_equipo_pct": 64.1,
+      "ram_equipo_usada_gib": 12.688648223876953
+    },
+    {
+      "segundos": 172.616,
+      "cpu_equipo_pct": 67.9,
+      "ram_equipo_usada_gib": 12.689186096191406
+    },
+    {
+      "segundos": 173.131,
+      "cpu_equipo_pct": 70.4,
+      "ram_equipo_usada_gib": 12.681755065917969
+    },
+    {
+      "segundos": 173.635,
+      "cpu_equipo_pct": 81.1,
+      "ram_equipo_usada_gib": 12.70517349243164
+    },
+    {
+      "segundos": 174.137,
+      "cpu_equipo_pct": 74.8,
+      "ram_equipo_usada_gib": 12.706787109375
+    },
+    {
+      "segundos": 174.638,
+      "cpu_equipo_pct": 63.8,
+      "ram_equipo_usada_gib": 12.707122802734375
+    },
+    {
+      "segundos": 175.139,
+      "cpu_equipo_pct": 57.2,
+      "ram_equipo_usada_gib": 12.706745147705078
+    },
+    {
+      "segundos": 175.641,
+      "cpu_equipo_pct": 81.3,
+      "ram_equipo_usada_gib": 12.69393539428711
+    },
+    {
+      "segundos": 176.142,
+      "cpu_equipo_pct": 81.4,
+      "ram_equipo_usada_gib": 12.693103790283203
+    },
+    {
+      "segundos": 176.643,
+      "cpu_equipo_pct": 72.0,
+      "ram_equipo_usada_gib": 12.700584411621094
+    },
+    {
+      "segundos": 177.144,
+      "cpu_equipo_pct": 80.8,
+      "ram_equipo_usada_gib": 12.69637680053711
+    },
+    {
+      "segundos": 177.646,
+      "cpu_equipo_pct": 73.7,
+      "ram_equipo_usada_gib": 12.698444366455078
+    },
+    {
+      "segundos": 178.147,
+      "cpu_equipo_pct": 68.3,
+      "ram_equipo_usada_gib": 12.693740844726562
+    },
+    {
+      "segundos": 178.649,
+      "cpu_equipo_pct": 74.9,
+      "ram_equipo_usada_gib": 12.69620132446289
+    },
+    {
+      "segundos": 179.15,
+      "cpu_equipo_pct": 72.1,
+      "ram_equipo_usada_gib": 12.676700592041016
+    },
+    {
+      "segundos": 179.651,
+      "cpu_equipo_pct": 70.0,
+      "ram_equipo_usada_gib": 12.679725646972656
+    },
+    {
+      "segundos": 180.153,
+      "cpu_equipo_pct": 72.0,
+      "ram_equipo_usada_gib": 12.679695129394531
+    },
+    {
+      "segundos": 180.653,
+      "cpu_equipo_pct": 69.0,
+      "ram_equipo_usada_gib": 12.678218841552734
+    },
+    {
+      "segundos": 181.154,
+      "cpu_equipo_pct": 73.6,
+      "ram_equipo_usada_gib": 12.679313659667969
+    },
+    {
+      "segundos": 181.656,
+      "cpu_equipo_pct": 69.5,
+      "ram_equipo_usada_gib": 12.679821014404297
+    },
+    {
+      "segundos": 182.157,
+      "cpu_equipo_pct": 60.8,
+      "ram_equipo_usada_gib": 12.675750732421875
+    },
+    {
+      "segundos": 182.658,
+      "cpu_equipo_pct": 59.1,
+      "ram_equipo_usada_gib": 12.679595947265625
+    },
+    {
+      "segundos": 183.159,
+      "cpu_equipo_pct": 65.8,
+      "ram_equipo_usada_gib": 12.679519653320312
+    },
+    {
+      "segundos": 183.661,
+      "cpu_equipo_pct": 63.2,
+      "ram_equipo_usada_gib": 12.679508209228516
+    },
+    {
+      "segundos": 184.162,
+      "cpu_equipo_pct": 59.8,
+      "ram_equipo_usada_gib": 12.679489135742188
+    },
+    {
+      "segundos": 184.663,
+      "cpu_equipo_pct": 61.7,
+      "ram_equipo_usada_gib": 12.679393768310547
+    },
+    {
+      "segundos": 185.164,
+      "cpu_equipo_pct": 62.5,
+      "ram_equipo_usada_gib": 12.679393768310547
+    },
+    {
+      "segundos": 185.665,
+      "cpu_equipo_pct": 65.1,
+      "ram_equipo_usada_gib": 12.679378509521484
+    },
+    {
+      "segundos": 186.167,
+      "cpu_equipo_pct": 75.1,
+      "ram_equipo_usada_gib": 12.677284240722656
+    },
+    {
+      "segundos": 186.668,
+      "cpu_equipo_pct": 63.1,
+      "ram_equipo_usada_gib": 12.679248809814453
+    },
+    {
+      "segundos": 187.169,
+      "cpu_equipo_pct": 61.1,
+      "ram_equipo_usada_gib": 12.678085327148438
+    },
+    {
+      "segundos": 187.671,
+      "cpu_equipo_pct": 51.6,
+      "ram_equipo_usada_gib": 12.679061889648438
+    },
+    {
+      "segundos": 188.172,
+      "cpu_equipo_pct": 57.6,
+      "ram_equipo_usada_gib": 12.67779541015625
+    },
+    {
+      "segundos": 188.708,
+      "cpu_equipo_pct": 62.9,
+      "ram_equipo_usada_gib": 12.679405212402344
+    },
+    {
+      "segundos": 189.247,
+      "cpu_equipo_pct": 80.1,
+      "ram_equipo_usada_gib": 12.684097290039062
+    },
+    {
+      "segundos": 189.845,
+      "cpu_equipo_pct": 93.7,
+      "ram_equipo_usada_gib": 12.703689575195312
+    },
+    {
+      "segundos": 190.347,
+      "cpu_equipo_pct": 75.3,
+      "ram_equipo_usada_gib": 12.707855224609375
+    },
+    {
+      "segundos": 190.848,
+      "cpu_equipo_pct": 56.2,
+      "ram_equipo_usada_gib": 12.704212188720703
+    },
+    {
+      "segundos": 191.349,
+      "cpu_equipo_pct": 62.6,
+      "ram_equipo_usada_gib": 12.707221984863281
+    },
+    {
+      "segundos": 191.85,
+      "cpu_equipo_pct": 60.2,
+      "ram_equipo_usada_gib": 12.702014923095703
+    },
+    {
+      "segundos": 192.351,
+      "cpu_equipo_pct": 54.3,
+      "ram_equipo_usada_gib": 12.707714080810547
+    },
+    {
+      "segundos": 192.852,
+      "cpu_equipo_pct": 55.6,
+      "ram_equipo_usada_gib": 12.693347930908203
+    },
+    {
+      "segundos": 193.353,
+      "cpu_equipo_pct": 52.0,
+      "ram_equipo_usada_gib": 12.701850891113281
+    },
+    {
+      "segundos": 193.854,
+      "cpu_equipo_pct": 64.1,
+      "ram_equipo_usada_gib": 12.701045989990234
+    },
+    {
+      "segundos": 194.355,
+      "cpu_equipo_pct": 58.1,
+      "ram_equipo_usada_gib": 12.693920135498047
+    },
+    {
+      "segundos": 194.856,
+      "cpu_equipo_pct": 50.2,
+      "ram_equipo_usada_gib": 12.693546295166016
+    },
+    {
+      "segundos": 195.357,
+      "cpu_equipo_pct": 52.1,
+      "ram_equipo_usada_gib": 12.675060272216797
+    },
+    {
+      "segundos": 195.858,
+      "cpu_equipo_pct": 53.3,
+      "ram_equipo_usada_gib": 12.67431640625
+    },
+    {
+      "segundos": 196.359,
+      "cpu_equipo_pct": 54.0,
+      "ram_equipo_usada_gib": 12.674213409423828
+    },
+    {
+      "segundos": 196.86,
+      "cpu_equipo_pct": 53.1,
+      "ram_equipo_usada_gib": 12.67354965209961
+    },
+    {
+      "segundos": 197.361,
+      "cpu_equipo_pct": 58.0,
+      "ram_equipo_usada_gib": 12.674518585205078
+    },
+    {
+      "segundos": 197.862,
+      "cpu_equipo_pct": 49.6,
+      "ram_equipo_usada_gib": 12.673755645751953
+    },
+    {
+      "segundos": 198.363,
+      "cpu_equipo_pct": 51.2,
+      "ram_equipo_usada_gib": 12.674121856689453
+    },
+    {
+      "segundos": 198.864,
+      "cpu_equipo_pct": 56.4,
+      "ram_equipo_usada_gib": 12.629962921142578
+    },
+    {
+      "segundos": 199.365,
+      "cpu_equipo_pct": 51.4,
+      "ram_equipo_usada_gib": 12.629730224609375
+    },
+    {
+      "segundos": 199.866,
+      "cpu_equipo_pct": 54.7,
+      "ram_equipo_usada_gib": 12.62954330444336
+    },
+    {
+      "segundos": 200.367,
+      "cpu_equipo_pct": 58.0,
+      "ram_equipo_usada_gib": 12.629383087158203
+    },
+    {
+      "segundos": 200.868,
+      "cpu_equipo_pct": 53.5,
+      "ram_equipo_usada_gib": 12.630523681640625
+    },
+    {
+      "segundos": 201.37,
+      "cpu_equipo_pct": 55.4,
+      "ram_equipo_usada_gib": 12.630523681640625
+    },
+    {
+      "segundos": 201.871,
+      "cpu_equipo_pct": 65.5,
+      "ram_equipo_usada_gib": 12.627452850341797
+    },
+    {
+      "segundos": 202.372,
+      "cpu_equipo_pct": 57.4,
+      "ram_equipo_usada_gib": 12.628955841064453
+    },
+    {
+      "segundos": 202.873,
+      "cpu_equipo_pct": 51.0,
+      "ram_equipo_usada_gib": 12.628860473632812
+    },
+    {
+      "segundos": 203.374,
+      "cpu_equipo_pct": 59.2,
+      "ram_equipo_usada_gib": 12.629150390625
+    },
+    {
+      "segundos": 203.875,
+      "cpu_equipo_pct": 5.1,
+      "ram_equipo_usada_gib": 12.628604888916016
+    },
+    {
+      "segundos": 204.376,
+      "cpu_equipo_pct": 0.8,
+      "ram_equipo_usada_gib": 12.629051208496094
+    },
+    {
+      "segundos": 204.877,
+      "cpu_equipo_pct": 18.7,
+      "ram_equipo_usada_gib": 12.628398895263672
+    },
+    {
+      "segundos": 205.378,
+      "cpu_equipo_pct": 31.2,
+      "ram_equipo_usada_gib": 12.64276123046875
+    },
+    {
+      "segundos": 205.883,
+      "cpu_equipo_pct": 82.2,
+      "ram_equipo_usada_gib": 12.660865783691406
+    },
+    {
+      "segundos": 206.39,
+      "cpu_equipo_pct": 58.9,
+      "ram_equipo_usada_gib": 12.665718078613281
+    },
+    {
+      "segundos": 206.891,
+      "cpu_equipo_pct": 53.1,
+      "ram_equipo_usada_gib": 12.664405822753906
+    },
+    {
+      "segundos": 207.392,
+      "cpu_equipo_pct": 51.0,
+      "ram_equipo_usada_gib": 12.664871215820312
+    },
+    {
+      "segundos": 207.893,
+      "cpu_equipo_pct": 58.9,
+      "ram_equipo_usada_gib": 12.651065826416016
+    },
+    {
+      "segundos": 208.394,
+      "cpu_equipo_pct": 58.7,
+      "ram_equipo_usada_gib": 12.654605865478516
+    },
+    {
+      "segundos": 208.895,
+      "cpu_equipo_pct": 62.7,
+      "ram_equipo_usada_gib": 12.65255355834961
+    },
+    {
+      "segundos": 209.396,
+      "cpu_equipo_pct": 51.0,
+      "ram_equipo_usada_gib": 12.652729034423828
+    },
+    {
+      "segundos": 209.897,
+      "cpu_equipo_pct": 53.5,
+      "ram_equipo_usada_gib": 12.652145385742188
+    },
+    {
+      "segundos": 210.398,
+      "cpu_equipo_pct": 51.6,
+      "ram_equipo_usada_gib": 12.653301239013672
+    },
+    {
+      "segundos": 210.899,
+      "cpu_equipo_pct": 53.3,
+      "ram_equipo_usada_gib": 12.653125762939453
+    },
+    {
+      "segundos": 211.4,
+      "cpu_equipo_pct": 52.3,
+      "ram_equipo_usada_gib": 12.634544372558594
+    },
+    {
+      "segundos": 211.901,
+      "cpu_equipo_pct": 53.7,
+      "ram_equipo_usada_gib": 12.634017944335938
+    },
+    {
+      "segundos": 212.402,
+      "cpu_equipo_pct": 58.8,
+      "ram_equipo_usada_gib": 12.63425064086914
+    },
+    {
+      "segundos": 212.905,
+      "cpu_equipo_pct": 63.4,
+      "ram_equipo_usada_gib": 12.634113311767578
+    },
+    {
+      "segundos": 213.406,
+      "cpu_equipo_pct": 56.2,
+      "ram_equipo_usada_gib": 12.635345458984375
+    },
+    {
+      "segundos": 213.907,
+      "cpu_equipo_pct": 56.7,
+      "ram_equipo_usada_gib": 12.635147094726562
+    },
+    {
+      "segundos": 214.408,
+      "cpu_equipo_pct": 55.2,
+      "ram_equipo_usada_gib": 12.634002685546875
+    },
+    {
+      "segundos": 214.909,
+      "cpu_equipo_pct": 52.1,
+      "ram_equipo_usada_gib": 12.633834838867188
+    },
+    {
+      "segundos": 215.41,
+      "cpu_equipo_pct": 56.3,
+      "ram_equipo_usada_gib": 12.633304595947266
+    },
+    {
+      "segundos": 215.911,
+      "cpu_equipo_pct": 64.6,
+      "ram_equipo_usada_gib": 12.633277893066406
+    },
+    {
+      "segundos": 216.412,
+      "cpu_equipo_pct": 58.2,
+      "ram_equipo_usada_gib": 12.633167266845703
+    },
+    {
+      "segundos": 216.913,
+      "cpu_equipo_pct": 12.4,
+      "ram_equipo_usada_gib": 12.62838363647461
+    },
+    {
+      "segundos": 217.414,
+      "cpu_equipo_pct": 20.1,
+      "ram_equipo_usada_gib": 12.633197784423828
+    },
+    {
+      "segundos": 217.915,
+      "cpu_equipo_pct": 15.0,
+      "ram_equipo_usada_gib": 12.633007049560547
+    },
+    {
+      "segundos": 218.416,
+      "cpu_equipo_pct": 37.5,
+      "ram_equipo_usada_gib": 12.631732940673828
+    },
+    {
+      "segundos": 218.917,
+      "cpu_equipo_pct": 64.5,
+      "ram_equipo_usada_gib": 12.630996704101562
+    },
+    {
+      "segundos": 219.418,
+      "cpu_equipo_pct": 58.5,
+      "ram_equipo_usada_gib": 12.631290435791016
+    },
+    {
+      "segundos": 219.919,
+      "cpu_equipo_pct": 58.5,
+      "ram_equipo_usada_gib": 12.631229400634766
+    },
+    {
+      "segundos": 220.419,
+      "cpu_equipo_pct": 59.3,
+      "ram_equipo_usada_gib": 12.631156921386719
+    },
+    {
+      "segundos": 220.924,
+      "cpu_equipo_pct": 64.2,
+      "ram_equipo_usada_gib": 12.631603240966797
+    },
+    {
+      "segundos": 221.491,
+      "cpu_equipo_pct": 95.5,
+      "ram_equipo_usada_gib": 12.644054412841797
+    },
+    {
+      "segundos": 222.02,
+      "cpu_equipo_pct": 93.3,
+      "ram_equipo_usada_gib": 12.634231567382812
+    },
+    {
+      "segundos": 222.555,
+      "cpu_equipo_pct": 91.1,
+      "ram_equipo_usada_gib": 12.641616821289062
+    },
+    {
+      "segundos": 223.056,
+      "cpu_equipo_pct": 59.3,
+      "ram_equipo_usada_gib": 12.641883850097656
+    },
+    {
+      "segundos": 223.557,
+      "cpu_equipo_pct": 50.6,
+      "ram_equipo_usada_gib": 12.64371109008789
+    },
+    {
+      "segundos": 224.058,
+      "cpu_equipo_pct": 52.1,
+      "ram_equipo_usada_gib": 12.64377212524414
+    },
+    {
+      "segundos": 224.559,
+      "cpu_equipo_pct": 51.6,
+      "ram_equipo_usada_gib": 12.64377212524414
+    },
+    {
+      "segundos": 225.06,
+      "cpu_equipo_pct": 58.0,
+      "ram_equipo_usada_gib": 12.643829345703125
+    },
+    {
+      "segundos": 225.562,
+      "cpu_equipo_pct": 64.2,
+      "ram_equipo_usada_gib": 12.638175964355469
+    },
+    {
+      "segundos": 226.063,
+      "cpu_equipo_pct": 55.1,
+      "ram_equipo_usada_gib": 12.638214111328125
+    },
+    {
+      "segundos": 226.564,
+      "cpu_equipo_pct": 52.5,
+      "ram_equipo_usada_gib": 12.64211654663086
+    },
+    {
+      "segundos": 227.065,
+      "cpu_equipo_pct": 57.5,
+      "ram_equipo_usada_gib": 12.642066955566406
+    },
+    {
+      "segundos": 227.567,
+      "cpu_equipo_pct": 53.5,
+      "ram_equipo_usada_gib": 12.64229965209961
+    },
+    {
+      "segundos": 228.068,
+      "cpu_equipo_pct": 51.4,
+      "ram_equipo_usada_gib": 12.626754760742188
+    },
+    {
+      "segundos": 228.569,
+      "cpu_equipo_pct": 57.1,
+      "ram_equipo_usada_gib": 12.636207580566406
+    },
+    {
+      "segundos": 229.07,
+      "cpu_equipo_pct": 55.3,
+      "ram_equipo_usada_gib": 12.636096954345703
+    },
+    {
+      "segundos": 229.571,
+      "cpu_equipo_pct": 55.2,
+      "ram_equipo_usada_gib": 12.63565444946289
+    },
+    {
+      "segundos": 230.072,
+      "cpu_equipo_pct": 54.7,
+      "ram_equipo_usada_gib": 12.635627746582031
+    },
+    {
+      "segundos": 230.574,
+      "cpu_equipo_pct": 14.0,
+      "ram_equipo_usada_gib": 12.6309814453125
+    },
+    {
+      "segundos": 231.075,
+      "cpu_equipo_pct": 5.2,
+      "ram_equipo_usada_gib": 12.630233764648438
+    },
+    {
+      "segundos": 231.576,
+      "cpu_equipo_pct": 20.4,
+      "ram_equipo_usada_gib": 12.586101531982422
+    },
+    {
+      "segundos": 232.077,
+      "cpu_equipo_pct": 15.2,
+      "ram_equipo_usada_gib": 12.584091186523438
+    },
+    {
+      "segundos": 232.578,
+      "cpu_equipo_pct": 53.9,
+      "ram_equipo_usada_gib": 12.584186553955078
+    },
+    {
+      "segundos": 233.078,
+      "cpu_equipo_pct": 56.0,
+      "ram_equipo_usada_gib": 12.583866119384766
+    },
+    {
+      "segundos": 233.58,
+      "cpu_equipo_pct": 62.9,
+      "ram_equipo_usada_gib": 12.581462860107422
+    },
+    {
+      "segundos": 234.081,
+      "cpu_equipo_pct": 50.8,
+      "ram_equipo_usada_gib": 12.5814208984375
+    },
+    {
+      "segundos": 234.582,
+      "cpu_equipo_pct": 50.6,
+      "ram_equipo_usada_gib": 12.582759857177734
+    },
+    {
+      "segundos": 235.082,
+      "cpu_equipo_pct": 61.0,
+      "ram_equipo_usada_gib": 12.582626342773438
+    },
+    {
+      "segundos": 235.584,
+      "cpu_equipo_pct": 72.4,
+      "ram_equipo_usada_gib": 12.581890106201172
+    },
+    {
+      "segundos": 236.085,
+      "cpu_equipo_pct": 67.7,
+      "ram_equipo_usada_gib": 12.581790924072266
+    },
+    {
+      "segundos": 236.586,
+      "cpu_equipo_pct": 73.1,
+      "ram_equipo_usada_gib": 12.5821533203125
+    },
+    {
+      "segundos": 237.087,
+      "cpu_equipo_pct": 67.5,
+      "ram_equipo_usada_gib": 12.581993103027344
+    },
+    {
+      "segundos": 237.589,
+      "cpu_equipo_pct": 89.0,
+      "ram_equipo_usada_gib": 12.588584899902344
+    },
+    {
+      "segundos": 238.123,
+      "cpu_equipo_pct": 89.6,
+      "ram_equipo_usada_gib": 12.590034484863281
+    },
+    {
+      "segundos": 238.714,
+      "cpu_equipo_pct": 96.2,
+      "ram_equipo_usada_gib": 12.596019744873047
+    },
+    {
+      "segundos": 239.219,
+      "cpu_equipo_pct": 77.4,
+      "ram_equipo_usada_gib": 12.598335266113281
+    },
+    {
+      "segundos": 239.72,
+      "cpu_equipo_pct": 68.3,
+      "ram_equipo_usada_gib": 12.598331451416016
+    },
+    {
+      "segundos": 240.221,
+      "cpu_equipo_pct": 57.5,
+      "ram_equipo_usada_gib": 12.598381042480469
+    },
+    {
+      "segundos": 240.722,
+      "cpu_equipo_pct": 51.8,
+      "ram_equipo_usada_gib": 12.593242645263672
+    },
+    {
+      "segundos": 241.224,
+      "cpu_equipo_pct": 76.3,
+      "ram_equipo_usada_gib": 12.588478088378906
+    },
+    {
+      "segundos": 241.726,
+      "cpu_equipo_pct": 75.9,
+      "ram_equipo_usada_gib": 12.597007751464844
+    },
+    {
+      "segundos": 242.227,
+      "cpu_equipo_pct": 73.2,
+      "ram_equipo_usada_gib": 12.59682846069336
+    },
+    {
+      "segundos": 242.728,
+      "cpu_equipo_pct": 71.2,
+      "ram_equipo_usada_gib": 12.597076416015625
+    },
+    {
+      "segundos": 243.23,
+      "cpu_equipo_pct": 78.5,
+      "ram_equipo_usada_gib": 12.59689712524414
+    },
+    {
+      "segundos": 243.731,
+      "cpu_equipo_pct": 70.4,
+      "ram_equipo_usada_gib": 12.597038269042969
+    },
+    {
+      "segundos": 244.233,
+      "cpu_equipo_pct": 66.5,
+      "ram_equipo_usada_gib": 12.578556060791016
+    },
+    {
+      "segundos": 244.734,
+      "cpu_equipo_pct": 72.3,
+      "ram_equipo_usada_gib": 12.585159301757812
+    },
+    {
+      "segundos": 245.235,
+      "cpu_equipo_pct": 74.4,
+      "ram_equipo_usada_gib": 12.584728240966797
+    },
+    {
+      "segundos": 245.736,
+      "cpu_equipo_pct": 76.7,
+      "ram_equipo_usada_gib": 12.579994201660156
+    },
+    {
+      "segundos": 246.237,
+      "cpu_equipo_pct": 30.8,
+      "ram_equipo_usada_gib": 12.576850891113281
+    },
+    {
+      "segundos": 246.738,
+      "cpu_equipo_pct": 13.1,
+      "ram_equipo_usada_gib": 12.583717346191406
+    },
+    {
+      "segundos": 247.239,
+      "cpu_equipo_pct": 20.1,
+      "ram_equipo_usada_gib": 12.582466125488281
+    },
+    {
+      "segundos": 247.74,
+      "cpu_equipo_pct": 40.0,
+      "ram_equipo_usada_gib": 12.583053588867188
+    },
+    {
+      "segundos": 248.24,
+      "cpu_equipo_pct": 61.7,
+      "ram_equipo_usada_gib": 12.582401275634766
+    },
+    {
+      "segundos": 248.742,
+      "cpu_equipo_pct": 57.4,
+      "ram_equipo_usada_gib": 12.582763671875
+    },
+    {
+      "segundos": 249.242,
+      "cpu_equipo_pct": 63.9,
+      "ram_equipo_usada_gib": 12.582637786865234
+    },
+    {
+      "segundos": 249.744,
+      "cpu_equipo_pct": 63.9,
+      "ram_equipo_usada_gib": 12.582763671875
+    },
+    {
+      "segundos": 250.245,
+      "cpu_equipo_pct": 53.3,
+      "ram_equipo_usada_gib": 12.582599639892578
+    },
+    {
+      "segundos": 250.746,
+      "cpu_equipo_pct": 61.7,
+      "ram_equipo_usada_gib": 12.58243179321289
+    },
+    {
+      "segundos": 251.248,
+      "cpu_equipo_pct": 67.0,
+      "ram_equipo_usada_gib": 12.58205795288086
+    },
+    {
+      "segundos": 251.749,
+      "cpu_equipo_pct": 57.4,
+      "ram_equipo_usada_gib": 12.575218200683594
+    },
+    {
+      "segundos": 252.249,
+      "cpu_equipo_pct": 51.2,
+      "ram_equipo_usada_gib": 12.575061798095703
+    },
+    {
+      "segundos": 252.751,
+      "cpu_equipo_pct": 52.5,
+      "ram_equipo_usada_gib": 12.58380126953125
+    },
+    {
+      "segundos": 253.252,
+      "cpu_equipo_pct": 53.3,
+      "ram_equipo_usada_gib": 12.583709716796875
+    },
+    {
+      "segundos": 253.756,
+      "cpu_equipo_pct": 75.5,
+      "ram_equipo_usada_gib": 12.587722778320312
+    },
+    {
+      "segundos": 254.284,
+      "cpu_equipo_pct": 79.2,
+      "ram_equipo_usada_gib": 12.589111328125
+    },
+    {
+      "segundos": 254.89,
+      "cpu_equipo_pct": 87.9,
+      "ram_equipo_usada_gib": 12.59857177734375
+    },
+    {
+      "segundos": 255.391,
+      "cpu_equipo_pct": 69.6,
+      "ram_equipo_usada_gib": 12.600078582763672
+    },
+    {
+      "segundos": 255.892,
+      "cpu_equipo_pct": 54.3,
+      "ram_equipo_usada_gib": 12.599822998046875
+    },
+    {
+      "segundos": 256.393,
+      "cpu_equipo_pct": 51.7,
+      "ram_equipo_usada_gib": 12.600086212158203
+    },
+    {
+      "segundos": 256.894,
+      "cpu_equipo_pct": 51.6,
+      "ram_equipo_usada_gib": 12.594097137451172
+    },
+    {
+      "segundos": 257.395,
+      "cpu_equipo_pct": 59.8,
+      "ram_equipo_usada_gib": 12.599403381347656
+    },
+    {
+      "segundos": 257.896,
+      "cpu_equipo_pct": 57.5,
+      "ram_equipo_usada_gib": 12.599174499511719
+    },
+    {
+      "segundos": 258.398,
+      "cpu_equipo_pct": 58.0,
+      "ram_equipo_usada_gib": 12.599384307861328
+    },
+    {
+      "segundos": 258.899,
+      "cpu_equipo_pct": 31.8,
+      "ram_equipo_usada_gib": 12.595848083496094
+    },
+    {
+      "segundos": 259.4,
+      "cpu_equipo_pct": 22.8,
+      "ram_equipo_usada_gib": 12.599445343017578
+    },
+    {
+      "segundos": 259.901,
+      "cpu_equipo_pct": 22.7,
+      "ram_equipo_usada_gib": 12.599319458007812
+    },
+    {
+      "segundos": 260.402,
+      "cpu_equipo_pct": 13.5,
+      "ram_equipo_usada_gib": 12.590030670166016
+    },
+    {
+      "segundos": 260.903,
+      "cpu_equipo_pct": 48.7,
+      "ram_equipo_usada_gib": 12.588058471679688
+    },
+    {
+      "segundos": 261.403,
+      "cpu_equipo_pct": 55.6,
+      "ram_equipo_usada_gib": 12.588191986083984
+    },
+    {
+      "segundos": 261.904,
+      "cpu_equipo_pct": 50.0,
+      "ram_equipo_usada_gib": 12.58749008178711
+    },
+    {
+      "segundos": 262.405,
+      "cpu_equipo_pct": 50.8,
+      "ram_equipo_usada_gib": 12.587989807128906
+    },
+    {
+      "segundos": 262.906,
+      "cpu_equipo_pct": 50.8,
+      "ram_equipo_usada_gib": 12.587974548339844
+    },
+    {
+      "segundos": 263.407,
+      "cpu_equipo_pct": 58.0,
+      "ram_equipo_usada_gib": 12.588424682617188
+    },
+    {
+      "segundos": 263.908,
+      "cpu_equipo_pct": 50.0,
+      "ram_equipo_usada_gib": 12.588180541992188
+    },
+    {
+      "segundos": 264.408,
+      "cpu_equipo_pct": 55.6,
+      "ram_equipo_usada_gib": 12.58840560913086
+    },
+    {
+      "segundos": 264.909,
+      "cpu_equipo_pct": 51.0,
+      "ram_equipo_usada_gib": 12.589309692382812
+    },
+    {
+      "segundos": 265.41,
+      "cpu_equipo_pct": 53.1,
+      "ram_equipo_usada_gib": 12.589614868164062
+    },
+    {
+      "segundos": 265.912,
+      "cpu_equipo_pct": 51.6,
+      "ram_equipo_usada_gib": 12.589412689208984
+    },
+    {
+      "segundos": 266.413,
+      "cpu_equipo_pct": 52.1,
+      "ram_equipo_usada_gib": 12.589614868164062
+    },
+    {
+      "segundos": 266.914,
+      "cpu_equipo_pct": 56.0,
+      "ram_equipo_usada_gib": 12.589508056640625
+    },
+    {
+      "segundos": 267.415,
+      "cpu_equipo_pct": 51.6,
+      "ram_equipo_usada_gib": 12.589466094970703
+    },
+    {
+      "segundos": 267.917,
+      "cpu_equipo_pct": 52.8,
+      "ram_equipo_usada_gib": 12.58926010131836
+    },
+    {
+      "segundos": 268.418,
+      "cpu_equipo_pct": 58.5,
+      "ram_equipo_usada_gib": 12.589523315429688
+    },
+    {
+      "segundos": 268.919,
+      "cpu_equipo_pct": 52.1,
+      "ram_equipo_usada_gib": 12.589065551757812
+    },
+    {
+      "segundos": 269.419,
+      "cpu_equipo_pct": 54.9,
+      "ram_equipo_usada_gib": 12.589271545410156
+    },
+    {
+      "segundos": 269.951,
+      "cpu_equipo_pct": 72.5,
+      "ram_equipo_usada_gib": 12.592655181884766
+    },
+    {
+      "segundos": 270.478,
+      "cpu_equipo_pct": 81.9,
+      "ram_equipo_usada_gib": 12.598163604736328
+    },
+    {
+      "segundos": 271.022,
+      "cpu_equipo_pct": 93.9,
+      "ram_equipo_usada_gib": 12.593280792236328
+    },
+    {
+      "segundos": 271.523,
+      "cpu_equipo_pct": 82.0,
+      "ram_equipo_usada_gib": 12.608295440673828
+    },
+    {
+      "segundos": 272.024,
+      "cpu_equipo_pct": 51.8,
+      "ram_equipo_usada_gib": 12.60797119140625
+    },
+    {
+      "segundos": 272.525,
+      "cpu_equipo_pct": 52.9,
+      "ram_equipo_usada_gib": 12.608711242675781
+    },
+    {
+      "segundos": 273.026,
+      "cpu_equipo_pct": 63.0,
+      "ram_equipo_usada_gib": 12.603744506835938
+    },
+    {
+      "segundos": 273.527,
+      "cpu_equipo_pct": 18.9,
+      "ram_equipo_usada_gib": 12.604511260986328
+    },
+    {
+      "segundos": 274.028,
+      "cpu_equipo_pct": 13.7,
+      "ram_equipo_usada_gib": 12.599468231201172
+    },
+    {
+      "segundos": 274.529,
+      "cpu_equipo_pct": 6.6,
+      "ram_equipo_usada_gib": 12.597740173339844
+    },
+    {
+      "segundos": 275.029,
+      "cpu_equipo_pct": 19.1,
+      "ram_equipo_usada_gib": 12.596122741699219
+    },
+    {
+      "segundos": 275.53,
+      "cpu_equipo_pct": 51.8,
+      "ram_equipo_usada_gib": 12.596443176269531
+    },
+    {
+      "segundos": 276.031,
+      "cpu_equipo_pct": 64.4,
+      "ram_equipo_usada_gib": 12.596065521240234
+    },
+    {
+      "segundos": 276.532,
+      "cpu_equipo_pct": 54.4,
+      "ram_equipo_usada_gib": 12.577865600585938
+    },
+    {
+      "segundos": 277.034,
+      "cpu_equipo_pct": 53.5,
+      "ram_equipo_usada_gib": 12.577301025390625
+    },
+    {
+      "segundos": 277.535,
+      "cpu_equipo_pct": 55.6,
+      "ram_equipo_usada_gib": 12.578121185302734
+    },
+    {
+      "segundos": 278.036,
+      "cpu_equipo_pct": 54.2,
+      "ram_equipo_usada_gib": 12.579303741455078
+    },
+    {
+      "segundos": 278.537,
+      "cpu_equipo_pct": 51.8,
+      "ram_equipo_usada_gib": 12.578994750976562
+    },
+    {
+      "segundos": 279.038,
+      "cpu_equipo_pct": 49.6,
+      "ram_equipo_usada_gib": 12.578697204589844
+    },
+    {
+      "segundos": 279.539,
+      "cpu_equipo_pct": 55.4,
+      "ram_equipo_usada_gib": 12.578777313232422
+    },
+    {
+      "segundos": 280.04,
+      "cpu_equipo_pct": 52.0,
+      "ram_equipo_usada_gib": 12.578300476074219
+    },
+    {
+      "segundos": 280.541,
+      "cpu_equipo_pct": 59.2,
+      "ram_equipo_usada_gib": 12.578433990478516
+    },
+    {
+      "segundos": 281.043,
+      "cpu_equipo_pct": 50.0,
+      "ram_equipo_usada_gib": 12.578189849853516
+    },
+    {
+      "segundos": 281.544,
+      "cpu_equipo_pct": 70.1,
+      "ram_equipo_usada_gib": 12.575923919677734
+    },
+    {
+      "segundos": 282.045,
+      "cpu_equipo_pct": 72.5,
+      "ram_equipo_usada_gib": 12.575756072998047
+    },
+    {
+      "segundos": 282.546,
+      "cpu_equipo_pct": 66.8,
+      "ram_equipo_usada_gib": 12.575515747070312
+    },
+    {
+      "segundos": 283.047,
+      "cpu_equipo_pct": 62.9,
+      "ram_equipo_usada_gib": 12.575172424316406
+    },
+    {
+      "segundos": 283.548,
+      "cpu_equipo_pct": 62.5,
+      "ram_equipo_usada_gib": 12.575523376464844
+    },
+    {
+      "segundos": 284.05,
+      "cpu_equipo_pct": 62.0,
+      "ram_equipo_usada_gib": 12.575370788574219
+    },
+    {
+      "segundos": 284.551,
+      "cpu_equipo_pct": 60.7,
+      "ram_equipo_usada_gib": 12.575328826904297
+    },
+    {
+      "segundos": 285.052,
+      "cpu_equipo_pct": 60.2,
+      "ram_equipo_usada_gib": 12.575183868408203
+    },
+    {
+      "segundos": 285.553,
+      "cpu_equipo_pct": 58.8,
+      "ram_equipo_usada_gib": 12.5751953125
+    },
+    {
+      "segundos": 286.091,
+      "cpu_equipo_pct": 71.3,
+      "ram_equipo_usada_gib": 12.575340270996094
+    },
+    {
+      "segundos": 286.613,
+      "cpu_equipo_pct": 81.7,
+      "ram_equipo_usada_gib": 12.585147857666016
+    },
+    {
+      "segundos": 287.239,
+      "cpu_equipo_pct": 87.8,
+      "ram_equipo_usada_gib": 12.59661865234375
+    }
+  ]
+}
