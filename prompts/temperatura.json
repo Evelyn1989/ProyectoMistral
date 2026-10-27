@@ -1,0 +1,12 @@
+[
+  {
+    "id": "texto_01",
+    "categoria": "Generación de texto",
+    "prompt": "Redacta un correo formal de máximo 100 palabras dirigido a una profesora. Incluye estas tres ideas: solicitar una reunión para revisar un proyecto de inteligencia artificial, proponer el miércoles a las 3 p. m. y agradecer su apoyo. No inventes nombres ni otros datos."
+  },
+  {
+    "id": "texto_02",
+    "categoria": "Generación de texto",
+    "prompt": "Redacta un aviso de mantenimiento de máximo 80 palabras para las personas usuarias de un laboratorio. Incluye estos datos: viernes de 6 p. m. a 8 p. m., interrupción del acceso a los servidores y recomendación de guardar el trabajo antes del inicio. No inventes fechas ni contactos."
+  }
+]
